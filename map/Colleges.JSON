@@ -1,0 +1,461 @@
+[
+  {
+    "college": "Abilene Christian University",
+    "website": "https://www.acu.edu",
+    "coords": [32.4701972, -99.7088165],
+    "faculty": [
+      {"name":"Dr. Lynette Sharp Penya","email":"sharp.penya@acu.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Abilene Christina University",
+    "website": "https://www.acu.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"Dorothy C. Andreas","email":"dca20a@acu.edu","profile":""},
+      {"name":"Dr. Jon Camp","email":"jonathan.camp@acu.edu","profile":""},
+      {"name":"Amanda Carrol","email":"amanda.carroll@acu.edu","profile":""},
+      {"name":"Dr. Randall Fowler","email":"rpf23a@acu.edu","profile":""},
+      {"name":"Dr. Lauren Lesley","email":"las02b@acu.edu","profile":""},
+      {"name":"Dr. Suzie Macaluso","email":"scm11a@acu.edu","profile":""},
+      {"name":"Sheila Richie","email":"sdr00a@acu.edu","profile":""},
+      {"name":"Kholo Theldi","email":"kmt11c@acu.edu","profile":""},
+      {"name":"Dr. James Dean Wallace","email":"jdw10b@acu.edu","profile":""},
+      {"name":"Dr. Kenneth Pybus","email":"kenneth.pybus@acu.edu","profile":""},
+      {"name":"Karley Adrion","email":"kna11a@acu.edu","profile":""},
+      {"name":"Lauren Blasingame","email":"lal97p@acu.edu","profile":""},
+      {"name":"Hutton Harris","email":"jhh03c@acu.edu","profile":""},
+      {"name":"Doug Mendenhall","email":"dlm08a@acu.edu","profile":""},
+      {"name":"Summer Walters","email":"skp97a@acu.edu","profile":""},
+      {"name":"Lisa Wiggins","email":"lrw95q@acu.edu","profile":""},
+      {"name":"Cade White","email":"cade.white@acu.edu","profile":""},
+      {"name":"Dr. Cole Bennett","email":"cole.bennett@acu.edu","profile":""},
+      {"name":"Dr. Bill Carroll II","email":"william.carroll@acu.edu","profile":""},
+      {"name":"Dr. Laura Carroll","email":"laura.carroll@acu.edu","profile":""},
+      {"name":"Karen Cukrowksi","email":"kdc00a@acu.edu","profile":""},
+      {"name":"Dr. Kyle Dickson","email":"dicksonk@acu.edu","profile":""},
+      {"name":"Dr. Jeremy Elliott","email":"jke10a@acu.edu","profile":""},
+      {"name":"Carol Evans","email":"evansc@acu.edu","profile":""},
+      {"name":"Bill Horn","email":"hornw@acu.edu","profile":""},
+      {"name":"Dr. Steven Moore","email":"sxm00b@acu.edu","profile":""},
+      {"name":"Sherry Rankin","email":"rankins@acu.edu","profile":""},
+      {"name":"Leslie Reed","email":"ler16a@acu.edu","profile":""},
+      {"name":"Dr. Paul Roggendorff","email":"par08b@acu.edu","profile":""},
+      {"name":"Shelly Sanders","email":"mrw95v@acu.edu","profile":""},
+      {"name":"Dr. Joe Stephenson","email":"jfs05b@acu.edu","profile":""},
+      {"name":"Debbie Willaims","email":"wlmsdeb@acu.edu","profile":""},
+      {"name":"Todd Womble","email":"mtw04b@acu.edu","profile":""},
+      {"name":"Dr. Neal Coates","email":"coatesn@acu.edu","profile":""},
+      {"name":"Bob Delony","email":"rld07a@acu.edu","profile":""},
+      {"name":"Dr. Candice Ortbals-Wiser","email":"cdo20b@acu.edu","profile":""},
+      {"name":"Benjamin Peterson","email":"bap21b@acu.edu","profile":""},
+      {"name":"Chris Riley","email":"chris.riley@acu.edu","profile":""},
+      {"name":"Dr. Stephanie Talley","email":"srt03c@acu.edu","profile":""},
+      {"name":"Julie Douthit","email":"jkd05a@acu.edu","profile":""},
+      {"name":"Christie Doty","email":"cjd99j@acu.edu","profile":""},
+      {"name":"Dr. Kim Hardin","email":"kam00e@acu.edu","profile":""},
+      {"name":"Dr. Andrew Huddleston","email":"aph97a@acu.edu","profile":""},
+      {"name":"Dr. Dana Kennamer","email":"dlk20b@acu.edu","profile":""},
+      {"name":"Cassie Knutson","email":"cak16b@acu.edu","profile":""},
+      {"name":"Dr. Dana Mayhall","email":"dlm07a@acu.edu","profile":""},
+      {"name":"Dr. Joe McAnulty","email":"jdm21b@acu.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Alamo Colleges District",
+    "website": "https://www.alamo.edu",
+    "coords": [29.4460, -98.4970],
+    "faculty": []
+  },
+  {
+    "college": "Alvin Community College",
+    "website": "https://www.alvincollege.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"Kerriel Lyles","email":"klyles@alvincollege.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Amarillo College",
+    "website": "https://www.actx.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"Catherine Frazer","email":"cafrazer@actx.edu","profile":""},
+      {"name":"Dr. Judith L. Carter","email":"jlcarter@actx.edu","profile":""},
+      {"name":"Dr. Chris Hudson","email":"echudson@actx.edu","profile":""},
+      {"name":"Dr. Lori Boykin","email":"lkboykin22@actx.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Angelo State University",
+    "website": "https://www.angelo.edu",
+    "coords": [31.4350, -100.4470],
+    "faculty": [
+      {"name":"Dr. Susana Badiola","email":"susana.badiola@angelo.edu","profile":""},
+      {"name":"Dr. Tony Bartl","email":"tony.bartl@angelo.edu","profile":""},
+      {"name":"Gustavo Campos","email":"manny.campos@angelo.edu","profile":""},
+      {"name":"Anne Arreola","email":"anna.arreola@angelo.edu","profile":""},
+      {"name":"Dr. Erin Ashworth-King","email":"erin.ashworth-king@angelo.edu","profile":""},
+      {"name":"Erica Bailey","email":"erica.bailey@angelo.edu","profile":""},
+      {"name":"Dr. Benjamin Brojakowski","email":"benjamin.brojakowski@angelo.edu","profile":""},
+      {"name":"Jessica Carmona","email":"jessica.carmona@angelo.edu","profile":""},
+      {"name":"Dr. Joel Carr","email":"joel.carr@angelo.edu","profile":""},
+      {"name":"Scarlet Clouse","email":"scarlet.clouse@angelo.edu","profile":""},
+      {"name":"Dr. Jeff Dailey","email":"jeff.dailey@angelo.edu","profile":""},
+      {"name":"Jill Daniel","email":"jill.daniel@angelo.edu","profile":""},
+      {"name":"Dr. Dessie Davis","email":"dessie.davis@angelo.edu","profile":""},
+      {"name":"D.S.W. Kyrbi Davis","email":"kyrbi.davis@angelo.edu","profile":""},
+      {"name":"Matias de Paula","email":"matias.depaula@angelo.edu","profile":""},
+      {"name":"Carlos Diaz","email":"carlos.diaz@angelo.edu","profile":""},
+      {"name":"Jil Dillard","email":"jil.dillard@angelo.edu","profile":""},
+      {"name":"Dr. Layne Dittmann","email":"layne.dittmann@angelo.edu","profile":""},
+      {"name":"Alyssa Drew","email":"alyssa.drew@angelo.edu","profile":""},
+      {"name":"Dr. Alison Dushane","email":"allison.dushane@angelo.edu","profile":""},
+      {"name":"Caitie Dyer","email":"caitie.dyer@angelo.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Austin College",
+    "website": "https://www.austincollege.edu",
+    "coords": [33.64626, -96.594854],
+    "faculty": [
+      {"name":"Dr. Meghan Donnelly","email":"mdonnelly@austincollege.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Austin Community College",
+    "website": "https://www.austincc.edu",
+    "coords": [30.479559, -97.834813],
+    "faculty": [
+      {"name":"Dr. Linda Cox","email":"servicelearning@austincc.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Brazosport College",
+    "website": "https://www.brazosport.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"Dr. Sarah Currie-Harrell","email":"sarah.currie-harrell@brazosport.edu","profile":""},
+      {"name":"Derrick Ford","email":"derrick.ford@brazosport.edu","profile":""},
+      {"name":"Kate Funkhouser","email":"kate.funkhouser@brazosport.edu","profile":""},
+      {"name":"Emily Arthur","email":"Emily.Masterson@brazosport.edu","profile":""},
+      {"name":"Dr. Joy Kennedy-O’Neill","email":"Joy.Kennedy@brazosport.edu","profile":""},
+      {"name":"Isiah Schauer","email":"isiah.schauer@brazosport.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Blinn College",
+    "website": "https://www.blinn.edu",
+    "coords": [30.1665, -96.3977], 
+    "faculty": [
+      {"name":"Dr. Kenneth Howell","email":"khowell@blinn.edu","profile":""},
+      {"name":"Jonnathon Hicks","email":"jonnathon.hicks@blinn.edu","profile":""},
+      {"name":"Dr. Michelle McGehee","email":"michelle.mcgehee@blinn.edu","profile":""},
+      {"name":"Clay Redding","email":"clay.redding@blinn.edu","profile":""},
+      {"name":"Brandon Franke","email":"bfranke@blinn.edu","profile":""},
+      {"name":"Dr. Shonda Whetstone","email":"shonda.whetstone@blinn.edu","profile":""},
+      {"name":"Dr. Katherine Wickes","email":"katherine.wickes@blinn.edu","profile":""},
+      {"name":"Dr. Rachel Gallardo","email":"Rachel.gallardo@blinn.edu","profile":""},
+      {"name":"Robert Stanberry","email":"Robert.stanberry@blinn.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Cisco College",
+    "website": "https://www.cisco.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"Tom Bell","email":"Tom.bell@cisco.edu","profile":""}
+    ]
+  },
+  {
+    "college": "College of the Mainland",
+    "website": "https://www.com.edu",
+    "coords": [0, 0],
+    "faculty": [
+      {"name":"David Anderson","email":"banderson@com.edu","profile":""},
+      {"name":"Gywndolen Barbee-Yow","email":"gbarbee@com.edu","profile":""},
+      {"name":"Cavazos","email":"mcavazos7@com.edu","profile":""},
+      {"name":"Anthony Frase","email":"lfrase@com.edu","profile":""},
+      {"name":"Stacey Burleson","email":"sburleson@com.edu","profile":""},
+      {"name":"Elaine Childs","email":"echilds1@com.edu","profile":""},
+      {"name":"Juliana Garcia","email":"jgarcia37@com.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Dallas College",
+    "website": "https://www.dallascollege.edu",
+    "coords": [32.7767, -96.7970],
+    "faculty": [
+      {"name":"Andrew Tolle","email":"AndrewTolle@dallascollege.edu","profile":""},
+      {"name":"Michael Stone","email":"mstone@DallasCollege.edu","profile":""},
+      {"name":"Hurshel Burton","email":"HBurton@DallasCollege.edu","profile":""}
+    ]
+  },
+  {
+    "college": "East Texas A&M University",
+    "website": "https://www.etamu.edu",
+    "coords": [33.2383, -96.4854],
+    "faculty": [
+      {"name": "Dr. Stephen Furlich","email": "Stephen.Furlich@etamu.edu","profile": ""},
+      {"name": "Dr. Willie Edwards","email": "Willie.Edwards@etamu.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "Houston Community College",
+    "website": "https://www.hccs.edu",
+    "coords": [29.7604, -95.3698],
+    "faculty": [
+      {"name":"Dr. Latonya Brown","email":"latonya.brown@hccs.edu","profile":""},
+      {"name":"Emmanuel Adiole","email":"emmanuel.adiole@hccs.edu","profile":""},
+      {"name":"Brenda Joyce Arceneaux","email":"brenda.arceneaux@hccs.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Huston‑Tillotson University",
+    "website": "https://www.htu.edu",
+    "coords": [30.2648, -97.7224],
+    "faculty": [
+      {"name":"Dr. Julie E. Hudson","email":"jehudson@htu.edu","profile":""},
+      {"name":"Dr. Lorraine Samuels","email":"lsamuels@htu.edu","profile":""},
+      {"name":"Dr. Robert Ceresa","email":"rmceresa@htu.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Laredo College",
+    "website": "https://www.laredo.edu",
+    "coords": [27.5438, -99.4846],
+    "faculty": [
+      {"name":"Dr. Gilbert Martinez","email":"gilberto.martinez1@laredo.edu","profile":""},
+      {"name":"Ana Ramirez","email":"ana.ramirez@laredo.edu","profile":""},
+      {"name":"Raphael Garcia","email":"rafael.garcia@laredo.edu","profile":""},
+      {"name":"David Cabrera","email":"david.cabrera@laredo.edu","profile":""},
+      {"name":"Claudette Quintanilla","email":"claudette.quintanilla@laredo.edu","profile":""},
+      {"name":"Dr Horacio Salinas","email":"hsalinas@laredo.edu","profile":""},
+      {"name":"Terral Toma","email":"terral.toma@laredo.edu","profile":""},
+      {"name":"Lizette Henry","email":"lizette.henry@laredo.edu","profile":""},
+      {"name":"Maximiliano Zapata","email":"maximiliano.zapata@laredo.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Midland College",
+    "website": "https://www.midland.edu",
+    "coords": [31.9978, -102.0770],
+    "faculty": [
+      {"name":"Ginger Schantz","email":"gschantz@midland.edu","profile":""},
+      {"name":"Ben Malone","email":"bmalone@midland.edu","profile":""},
+      {"name":"Sonya Laster","email":"slaster@midland.edu","profile":""},
+      {"name":"Nancy Barnard","email":"nbarnard@midland.edu","profile":""},
+      {"name":"William Brown","email":"wbrown@midland.edu","profile":""},
+      {"name":"Rabon Bewley","email":"rbewley@midland.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Odessa College",
+    "website": "https://www.odessa.edu",
+    "coords": [31.8457, -102.3676],
+    "faculty": [
+      {"name":"Tim Clark","email":"tlclark@odessa.edu","profile":""},
+      {"name":"Mehrnoursh Weems","email":"mweems@odessa.edu","profile":""},
+      {"name":"Kelly Smith","email":"ksmith@odessa.edu","profile":""},
+      {"name":"Ahosk Karra","email":"akarra@odessa.edu","profile":""},
+      {"name":"Naomi Gonzales","email":"ngonzales@odessa.edu","profile":""},
+      {"name":"Itzel Rodriguez Hernandez","email":"irodriguezhernandez@odessa.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Prairie View A&M University",
+    "website": "https://www.pvamu.edu",
+    "coords": [30.0919, -95.9894], 
+    "faculty": [
+      {"name": "Dr. Chrisdolyn Dawson","email": "studentengagement@pvamu.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "Rice University",
+    "website": "https://www.rice.edu",
+    "coords": [29.7186, -95.4000],
+    "faculty": [
+      {"name": "Melia Brown","email": "mb237@rice.edu","profile": ""},
+      {"name": "Taylor Damann","email": "Taylor.Damann@rice.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "San Antonio College",
+    "website": "https://www.alamo.edu/sanantonio",
+    "coords": [29.4469, -98.4896],
+    "faculty": [
+      {"name": "Leonard Lira","email": "llira20@alamo.edu","profile": ""},
+      {"name": "Virginia (Ginny) Stowitts Traina","email": "vstowitts@alamo.edu","profile": ""},
+      {"name": "Jospeh Liedecke","email": "jliedecke@alamo.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "San Jacinto College",
+    "website": "https://www.sanjac.edu",
+    "coords": [29.7050, -95.1798],
+    "faculty": [
+      {"name": "LaKeysha Lowery","email": "LaKeysha.Lowery@sjcd.edu","profile": ""},
+      {"name": "Amberley Boggs","email": "Amberley.Boggs@sjcd.edu","profile": ""},
+      {"name": "Kimberly DeLauro","email": "Kimberly.DeLauro@sjcd.edu","profile": ""},
+      {"name": "Nikkol Baker","email": "Nikkol.Baker@sjcd.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "St. Edward's University",
+    "website": "https://www.stedwards.edu",
+    "coords": [30.2716, -97.7437],
+    "faculty": [
+      {"name": "Alexandra Barron","email": "alexb@stedwards.edu","profile": ""},
+      {"name": "Nicholas Long","email": "chadl@stedwards.edu","profile": ""},
+      {"name": "Dr. Brian Smith","email": "brianws@stedwards.edu","profile": ""},
+      {"name": "Dr. Angela Ju","email": "aju@stedwards.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "St. Mary's University",
+    "website": "https://www.stmarytx.edu",
+    "coords": [29.5159, -98.4814],
+    "faculty": [
+      {"name": "Kathe Lehman-Meyer","email": "klehmanmeyer@stmarytx.edu","profile": ""},
+      {"name": "Dr. Betsy Smith","email": "bsmith27@stmarytx.edu","profile": ""},
+      {"name": "Dr. Patricia Jaramillo","email": "pjaramillo2@stmarytx.edu","profile": ""},
+      {"name": "Dr. Janet Armitage","email": "jarmitage1@stmarytx.edu","profile": ""},
+      {"name": "Dr. Cody Cox","email": "ccox9@stmarytx.edu","profile": ""},
+      {"name": "Dr. Jamie Crosswhite","email": "jcrosswhite@stmarytx.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "Southern Methodist University",
+    "website": "https://www.smu.edu",
+    "coords": [32.8450, -96.7849],
+    "faculty": [
+      {"name": "Dr. Caitlin Anderson","email": "caitlina@smu.edu","profile": ""},
+      {"name": "Karisa Cloward","email": "kcloward@smu.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "South Plains College",
+    "website": "https://www.southplainscollege.edu",
+    "coords": [33.5779, -102.0000],
+    "faculty": [
+      {"name": "Britt Beardon","email": "bbearden@southplainscollege.edu","profile": ""},
+      {"name": "Carol Brannan","email": "cbrannan@southplainscollege.edu","profile": ""},
+      {"name": "Brant Farrar","email": "bfarrar@southplainscollege.edu","profile": ""},
+      {"name": "Nimi Finnigan","email": "nfinnigan@southplainscollege.edu","profile": ""},
+      {"name": "Janna Holt-Day","email": "jholtday@southplainscollege.edu","profile": ""},
+      {"name": "Drew Landry","email": "dlandry@southplainscollege.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "Southwest Texas Jr. College",
+    "website": "https://www.swtjc.edu",
+    "coords": [28.7096, -100.4850],
+    "faculty": [
+      {"name": "Charles Bowen","email": "cwbowenii@swtxc.edu","profile": ""},
+      {"name": "Cynthia Casburn","email": "ccasburn@swtxc.edu","profile": ""},
+      {"name": "Juan Gonzales","email": "jrgonzalez537@swtxc.edu","profile": ""},
+      {"name": "Xaviera Haynes","email": "xhaynes@swtxc.edu","profile": ""},
+      {"name": "Reagan King","email": "rkking@swtxc.edu","profile": ""},
+      {"name": "Pamela Lamb","email": "pklamb@swtxc.edu","profile": ""}
+    ]
+  },
+  {
+    "college": "Tarleton State University",
+    "website": "https://www.tarleton.edu",
+    "coords": [32.214752, -98.214372],
+    "faculty": [
+      {"name":"Dr. Christopher Gearhart","email":"gearhart@tarleton.edu","profile":""},
+      {"name":"Dr. Jennifer Edwards","email":"jtedwards@tarleton.edu","profile":""},
+      {"name":"Dr. Liza Benedict","email":"lizabenedict@tarleton.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas A&M University - Corpus Christi",
+    "website": "https://www.tamucc.edu",
+    "coords": [27.800583, -97.396380],
+    "faculty": [
+      {"name":"Dr. Kevin Kearns","email":"kevin.kearns@tamucc.edu","profile":""},
+      {"name":"Dr. Wendi Pollock","email":"wendi.pollock@tamucc.edu","profile":""},
+      {"name":"Dr. Sarah Scott","email":"sarah.scott@tamucc.edu","profile":""},
+      {"name":"Christopher Andrews","email":"christopher.andrews@tamucc.edu","profile":""},
+      {"name":"Ivanete Blanco","email":"ivanete.blanco@tamucc.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas A&M University - Texarkana",
+    "website": "https://www.tamut.edu",
+    "coords": [33.4258, -94.0477],
+    "faculty": [
+      {"name":"Dr. Corrine Hinton","email":"Corrine.Hinton@tamut.edu","profile":""},
+      {"name":"Dr. Michael Perri","email":"mperri@tamut.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas A&M University–Central Texas",
+    "website": "https://www.tamuct.edu",
+    "coords": [31.1179, -97.7273],
+    "faculty": [
+      {"name":"Dr. Morgan Lewing","email":"morgan.lewing@tamuct.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas A&M University - Kingsville",
+    "website": "https://www.tamuk.edu",
+    "coords": [27.5003, -97.8650],
+    "faculty": [
+      {"name":"Dr. Michael Houf","email":"michael.houf@tamuk.edu","profile":""},
+      {"name":"Dr. Travis Braidwood","email":"travis.braidwood@tamuk.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas A&M International University",
+    "website": "https://www.tamiu.edu",
+    "coords": [27.5040, -99.5073],
+    "faculty": [
+      {"name":"Rebekah Arenaz","email":"rebekaha.arenaz@tamiu.edu","profile":""},
+      {"name":"Dr. Simon Zschirnt","email":"simon.zschirnt@tamiu.edu","profile":""},
+      {"name":"Daniel Gonzales","email":"daniel.gonzalez@tamiu.edu","profile":""},
+      {"name":"Peter Haruna","email":"pharuna@tamiu.edu","profile":""},
+      {"name":"Robert Haynes","email":"rhaynes@tamiu.edu","profile":""},
+      {"name":"Marcus Ynalvez","email":"mynalvez@tamiu.edu","profile":""},
+      {"name":"Jerry Thompson","email":"jthompson@tamiu.edu","profile":""},
+      {"name":"Claudia San-Miguel","email":"csanmiguel@tamiu.edu","profile":""},
+      {"name":"Mehnaaz Momen","email":"mmomen@tamiu.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas Southern University",
+    "website": "https://www.tsu.edu",
+    "coords": [29.7210294, -95.3600148],
+    "faculty": [
+      {"name":"Dr. Oluponmile Olonilua","email":"oluponmile.olonilua@tsu.edu","profile":""}
+    ]
+  },
+  {
+    "college": "Texas Tech University",
+    "website": "https://www.ttu.edu",
+    "coords": [33.5848, -101.8795],
+    "faculty": [
+      {"name":"Kevin Grier","email":"kevin.grier@ttu.edu","profile":""},
+      {"name":"Kristina Mitchell","email":"kristina.mitchell@ttu.edu","profile":""},
+      {"name":"Jennifer Allen","email":"all48286@ttu.edu","profile":""},
+      {"name":"Michael Faris","email":"michael.faris@ttu.edu","profile":""},
+      {"name":"Zoe Andrews","email":"zoandrew@ttu.edu","profile":""}
+    ]
+  },
+  {
+  "college": "Wharton County Junior College",
+  "website": "https://www.wcjc.edu",
+  "coords": [29.3114, -96.0915],
+  "faculty": [
+    {"name":"Jorge Arroyos","email":"arroyosg@wcjc.edu","profile":""},
+    {"name":"Don Cavin","email":"CavinD@wcjc.edu","profile":""},
+    {"name":"Jason Bennett","email":"BennettJ@wcjc.edu","profile":""},
+    {"name":"Aaron Cooley","email":"CooleyA@wcjc.edu","profile":""}
+  ]
+}
+]
+
+
+
+

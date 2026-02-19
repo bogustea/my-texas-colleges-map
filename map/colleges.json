@@ -151,7 +151,7 @@
       {"name":"Dr. Kenneth Howell","email":"khowell@blinn.edu","profile":""},
       {"name":"Jonnathon Hicks","email":"jonnathon.hicks@blinn.edu","profile":""},
       {"name":"Dr. Michelle McGehee","email":"michelle.mcgehee@blinn.edu","profile":""},
-      {"name":"Clay Redding","email":"clay.redding@blinn.edu","profile":""}
+      {"name":"Clay Redding","email":"clay.redding@blinn.edu","profile":""},
       {"name":"Brandon Franke","email":"bfranke@blinn.edu","profile":""},
       {"name":"Dr. Shonda Whetstone","email":"shonda.whetstone@blinn.edu","profile":""},
       {"name":"Dr. Katherine Wickes","email":"katherine.wickes@blinn.edu","profile":""},
@@ -455,6 +455,7 @@
   ]
 }
 ]
+
 
 
 

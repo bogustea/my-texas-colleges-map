@@ -129,9 +129,7 @@
     "faculty": [
       {"name":"Dr. Linda Cox","email":"servicelearning@austincc.edu","profile":""}
     ]
-  }
-]
-[
+  },
   {
     "college": "Brazosport College",
     "website": "https://www.brazosport.edu",
@@ -167,9 +165,7 @@
       {"name":"Dr. Rachel Gallardo","email":"Rachel.gallardo@blinn.edu","profile":""},
       {"name":"Robert Stanberry","email":"Robert.stanberry@blinn.edu","profile":""}
     ]
-  }
-]
-[
+  },
   {
     "college": "Cisco College",
     "website": "https://www.cisco.edu",
@@ -191,9 +187,7 @@
       {"name":"Elaine Childs","email":"echilds1@com.edu","profile":""},
       {"name":"Juliana Garcia","email":"jgarcia37@com.edu","profile":""}
     ]
-  }
-]
-[
+  },
   {
     "college": "Dallas College",
     "website": "https://www.dallascollege.edu",
@@ -203,9 +197,7 @@
       {"name":"Michael Stone","email":"mstone@DallasCollege.edu","profile":""},
       {"name":"Hurshel Burton","email":"HBurton@DallasCollege.edu","profile":""}
     ]
-  }
-]
-[
+  },
   {
     "college": "East Texas A&M University",
     "website": "https://www.etamu.edu",
@@ -222,9 +214,7 @@
         "profile": ""
       }
     ]
-  }
-]
-[
+  },
   {
     "college": "Houston Community College",
     "website": "https://www.hccs.edu",
@@ -286,9 +276,7 @@
       {"name":"Naomi Gonzales","email":"ngonzales@odessa.edu","profile":""},
       {"name":"Itzel Rodriguez Hernandez","email":"irodriguezhernandez@odessa.edu","profile":""}
     ]
-  }
-]
-[
+  },
   {
     "college": "Prairie View A&M University",
     "website": "https://www.pvamu.edu",
@@ -317,9 +305,7 @@
         "profile": ""
       }
     ]
-  }
-]
-[
+  },
   {
     "college": "San Antonio College",
     "website": "https://www.alamo.edu/sanantonio",
@@ -523,9 +509,7 @@
         "profile": ""
       }
     ]
-  }
-]
-[
+  },
   {
     "college": "Tarleton State University",
     "website": "https://www.tarleton.edu",
@@ -609,27 +593,19 @@
       {"name":"Michael Faris","email":"michael.faris@ttu.edu","profile":""},
       {"name":"Zoe Andrews","email":"zoandrew@ttu.edu","profile":""}
     ]
+  },
+  {
+  "college": "Wharton County Junior College",
+  "website": "https://www.wcjc.edu",
+  "coords": [29.3114, -96.0915],
+  "faculty": [
+    {"name":"Jorge Arroyos","email":"arroyosg@wcjc.edu","profile":""},
+    {"name":"Don Cavin","email":"CavinD@wcjc.edu","profile":""},
+    {"name":"Jason Bennett","email":"BennettJ@wcjc.edu","profile":""},
+    {"name":"Aaron Cooley","email":"CooleyA@wcjc.edu","profile":""}
+  ]
+}
+    ]
   }
 ]
-{
-  "college": "Wharton County Junior College",
-  "website": "https://www.wcjc.edu",
-  "coords": [29.3114, -96.0915],
-  "faculty": [
-    {"name":"Jorge Arroyos","email":"arroyosg@wcjc.edu","profile":""},
-    {"name":"Don Cavin","email":"CavinD@wcjc.edu","profile":""},
-    {"name":"Jason Bennett","email":"BennettJ@wcjc.edu","profile":""},
-    {"name":"Aaron Cooley","email":"CooleyA@wcjc.edu","profile":""}
-  ]
-}
-{
-  "college": "Wharton County Junior College",
-  "website": "https://www.wcjc.edu",
-  "coords": [29.3114, -96.0915],
-  "faculty": [
-    {"name":"Jorge Arroyos","email":"arroyosg@wcjc.edu","profile":""},
-    {"name":"Don Cavin","email":"CavinD@wcjc.edu","profile":""},
-    {"name":"Jason Bennett","email":"BennettJ@wcjc.edu","profile":""},
-    {"name":"Aaron Cooley","email":"CooleyA@wcjc.edu","profile":""}
-  ]
-}
+
